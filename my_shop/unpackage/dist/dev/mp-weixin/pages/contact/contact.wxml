@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="http://www.itcast.cn/2018czydz/images/gywmban.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：888-888-8888 ( 点击拨打 )</view><view>联系地址：福建省龙岩市曹溪街道闽大路8号闽西职业技术学院</view></view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{cover}}"></map></view>
